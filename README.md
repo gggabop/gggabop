@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jesús Gabriel Pérez Pérez</h1>
 <h3 align="center">FullStack Senior Develper</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gggaboaniquilador&label=Profile%20views&color=0e75b6&style=flat" alt="gggaboaniquilador" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gggaboaniquilador&label=Profile%20views&color=0e75b6&style=flat" alt="gggabop" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gggaboaniquilador" alt="gggaboaniquilador" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gggabop" alt="gggabop" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
